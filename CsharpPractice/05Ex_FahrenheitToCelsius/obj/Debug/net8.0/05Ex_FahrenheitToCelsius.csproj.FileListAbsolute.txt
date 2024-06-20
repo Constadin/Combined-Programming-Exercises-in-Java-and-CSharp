@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\bin\Debug\net8.0\05Ex_FahrenheitToCelsius.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\bin\Debug\net8.0\05Ex_FahrenheitToCelsius.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\bin\Debug\net8.0\05Ex_FahrenheitToCelsius.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\bin\Debug\net8.0\05Ex_FahrenheitToCelsius.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\bin\Debug\net8.0\05Ex_FahrenheitToCelsius.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\refint\05Ex_FahrenheitToCelsius.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\05Ex_FahrenheitToCelsius.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\05Ex_FahrenheitToCelsius\obj\Debug\net8.0\ref\05Ex_FahrenheitToCelsius.dll
