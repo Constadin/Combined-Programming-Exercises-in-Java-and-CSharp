@@ -1,4 +1,4 @@
-#Repository of Combined Programming Exercises in Java and C#
+Repository of Combined Programming Exercises in Java and C#
 
 This repository aims to provide a comprehensive learning resource for students who want to enhance their programming skills in two fundamental languages: Java and C#. The exercises are structured to cover a range of topics from beginners to advanced, aligned with the sections from the University of Helsinki and Microsoft's C# certification programs.
 
