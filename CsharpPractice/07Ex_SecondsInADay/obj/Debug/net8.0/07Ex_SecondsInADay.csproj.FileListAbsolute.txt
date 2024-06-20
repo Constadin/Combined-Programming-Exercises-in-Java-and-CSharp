@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\bin\Debug\net8.0\07Ex_SecondsInADay.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\bin\Debug\net8.0\07Ex_SecondsInADay.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\bin\Debug\net8.0\07Ex_SecondsInADay.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\bin\Debug\net8.0\07Ex_SecondsInADay.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\bin\Debug\net8.0\07Ex_SecondsInADay.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\refint\07Ex_SecondsInADay.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\07Ex_SecondsInADay.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\07Ex_SecondsInADay\obj\Debug\net8.0\ref\07Ex_SecondsInADay.dll

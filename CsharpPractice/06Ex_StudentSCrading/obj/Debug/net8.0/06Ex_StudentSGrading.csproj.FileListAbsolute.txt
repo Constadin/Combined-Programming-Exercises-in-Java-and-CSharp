@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSGrading.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSGrading.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSGrading.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSGrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSGrading.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\refint\06Ex_StudentSGrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSGrading.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\ref\06Ex_StudentSGrading.dll

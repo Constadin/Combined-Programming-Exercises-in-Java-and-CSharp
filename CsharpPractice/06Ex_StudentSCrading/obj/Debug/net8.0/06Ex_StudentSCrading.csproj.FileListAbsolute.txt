@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSCrading.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSCrading.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSCrading.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSCrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\bin\Debug\net8.0\06Ex_StudentSCrading.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\refint\06Ex_StudentSCrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\06Ex_StudentSCrading.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\06Ex_StudentSCrading\obj\Debug\net8.0\ref\06Ex_StudentSCrading.dll
