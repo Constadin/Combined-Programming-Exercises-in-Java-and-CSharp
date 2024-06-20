@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\bin\Debug\net8.0\08Ex_Positivity.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\bin\Debug\net8.0\08Ex_Positivity.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\bin\Debug\net8.0\08Ex_Positivity.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\bin\Debug\net8.0\08Ex_Positivity.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\bin\Debug\net8.0\08Ex_Positivity.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\refint\08Ex_Positivity.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\08Ex_Positivity.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\08Ex_Positivity\obj\Debug\net8.0\ref\08Ex_Positivity.dll

@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\bin\Debug\net8.0\09Ex_LargerThanOrEqualTo.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\bin\Debug\net8.0\09Ex_LargerThanOrEqualTo.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\bin\Debug\net8.0\09Ex_LargerThanOrEqualTo.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\bin\Debug\net8.0\09Ex_LargerThanOrEqualTo.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\bin\Debug\net8.0\09Ex_LargerThanOrEqualTo.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\refint\09Ex_LargerThanOrEqualTo.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\09Ex_LargerThanOrEqualTo.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\09Ex_LargerThanOrEqualTo\obj\Debug\net8.0\ref\09Ex_LargerThanOrEqualTo.dll
