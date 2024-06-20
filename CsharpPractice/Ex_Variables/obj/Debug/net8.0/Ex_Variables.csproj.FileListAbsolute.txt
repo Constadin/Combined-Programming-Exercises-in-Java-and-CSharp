@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\bin\Debug\net8.0\Ex_Variables.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\bin\Debug\net8.0\Ex_Variables.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\bin\Debug\net8.0\Ex_Variables.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\bin\Debug\net8.0\Ex_Variables.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\bin\Debug\net8.0\Ex_Variables.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\refint\Ex_Variables.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\Ex_Variables.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\Ex_Variables\obj\Debug\net8.0\ref\Ex_Variables.dll
