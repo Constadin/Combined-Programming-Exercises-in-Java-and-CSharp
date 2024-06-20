@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\bin\Debug\net8.0\01EX_HelloCsharp.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\bin\Debug\net8.0\01EX_HelloCsharp.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\bin\Debug\net8.0\01EX_HelloCsharp.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\bin\Debug\net8.0\01EX_HelloCsharp.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\bin\Debug\net8.0\01EX_HelloCsharp.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\refint\01EX_HelloCsharp.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\01EX_HelloCsharp.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\01EX_HelloCsharp\obj\Debug\net8.0\ref\01EX_HelloCsharp.dll
