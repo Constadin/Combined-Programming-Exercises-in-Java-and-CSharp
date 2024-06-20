@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\bin\Debug\net8.0\11Ex_RandomDice.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\bin\Debug\net8.0\11Ex_RandomDice.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\bin\Debug\net8.0\11Ex_RandomDice.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\bin\Debug\net8.0\11Ex_RandomDice.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\bin\Debug\net8.0\11Ex_RandomDice.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\refint\11Ex_RandomDice.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\11Ex_RandomDice.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\11Ex_RandomDice\obj\Debug\net8.0\ref\11Ex_RandomDice.dll
