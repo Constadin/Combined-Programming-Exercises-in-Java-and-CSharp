@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\bin\Debug\net8.0\12Ex_LeapYear.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\bin\Debug\net8.0\12Ex_LeapYear.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\bin\Debug\net8.0\12Ex_LeapYear.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\bin\Debug\net8.0\12Ex_LeapYear.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\bin\Debug\net8.0\12Ex_LeapYear.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\refint\12Ex_LeapYear.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\12Ex_LeapYear.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\12Ex_LeapYear\obj\Debug\net8.0\ref\12Ex_LeapYear.dll

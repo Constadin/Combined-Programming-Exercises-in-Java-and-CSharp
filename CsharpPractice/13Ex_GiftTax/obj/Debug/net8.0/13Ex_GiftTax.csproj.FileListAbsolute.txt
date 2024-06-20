@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\bin\Debug\net8.0\13Ex_GiftTax.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\bin\Debug\net8.0\13Ex_GiftTax.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\bin\Debug\net8.0\13Ex_GiftTax.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\bin\Debug\net8.0\13Ex_GiftTax.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\bin\Debug\net8.0\13Ex_GiftTax.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\refint\13Ex_GiftTax.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\13Ex_GiftTax.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\13Ex_GiftTax\obj\Debug\net8.0\ref\13Ex_GiftTax.dll
