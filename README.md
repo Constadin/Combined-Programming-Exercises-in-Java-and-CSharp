@@ -66,3 +66,5 @@ Collections and General: Exercises depicting the use of collections and general 
 Exception handling and file operations: Exercises emphasizing file management and exception handling in both languages.
 
 This combined exercise structure aims to serve as a rich learning resource for mastering both Java and C#, supporting students in effectively mastering these programming languages.
+
+*download project java run to intellij IDEA   csharp to visual studio 2022 ( CsharpPractice.sln) choose in solusion a project and set as startup proj
