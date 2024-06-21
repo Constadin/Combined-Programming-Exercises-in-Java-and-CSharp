@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\bin\Debug\net8.0\17Ex_SwitchCase.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\bin\Debug\net8.0\17Ex_SwitchCase.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\bin\Debug\net8.0\17Ex_SwitchCase.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\bin\Debug\net8.0\17Ex_SwitchCase.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\bin\Debug\net8.0\17Ex_SwitchCase.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\refint\17Ex_SwitchCase.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\17Ex_SwitchCase.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\17Ex_SwitchCase\obj\Debug\net8.0\ref\17Ex_SwitchCase.dll
