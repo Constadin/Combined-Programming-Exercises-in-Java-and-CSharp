@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\bin\Debug\net8.0\20Ex_ExampleForeachLoop.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\bin\Debug\net8.0\20Ex_ExampleForeachLoop.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\bin\Debug\net8.0\20Ex_ExampleForeachLoop.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\bin\Debug\net8.0\20Ex_ExampleForeachLoop.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\bin\Debug\net8.0\20Ex_ExampleForeachLoop.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\refint\20Ex_ExampleForeachLoop.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\20Ex_ExampleForeachLoop.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\20Ex_ExampleForeachLoop\obj\Debug\net8.0\ref\20Ex_ExampleForeachLoop.dll

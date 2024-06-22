@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\bin\Debug\net8.0\19Ex_ForeachLoop.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\bin\Debug\net8.0\19Ex_ForeachLoop.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\bin\Debug\net8.0\19Ex_ForeachLoop.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\bin\Debug\net8.0\19Ex_ForeachLoop.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\bin\Debug\net8.0\19Ex_ForeachLoop.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\refint\19Ex_ForeachLoop.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\19Ex_ForeachLoop.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\19Ex_ForeachLoop\obj\Debug\net8.0\ref\19Ex_ForeachLoop.dll
