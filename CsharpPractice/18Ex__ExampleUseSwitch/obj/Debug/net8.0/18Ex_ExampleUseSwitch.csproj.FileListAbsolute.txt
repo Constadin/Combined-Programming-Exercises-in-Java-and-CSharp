@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\bin\Debug\net8.0\18Ex_ExampleUseSwitch.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\bin\Debug\net8.0\18Ex_ExampleUseSwitch.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\bin\Debug\net8.0\18Ex_ExampleUseSwitch.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\bin\Debug\net8.0\18Ex_ExampleUseSwitch.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\bin\Debug\net8.0\18Ex_ExampleUseSwitch.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\refint\18Ex_ExampleUseSwitch.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\18Ex_ExampleUseSwitch.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\18Ex__ExampleUseSwitch\obj\Debug\net8.0\ref\18Ex_ExampleUseSwitch.dll
