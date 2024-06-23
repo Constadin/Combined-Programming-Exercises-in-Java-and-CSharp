@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\bin\Debug\net8.0\21EX_ExampleStudentGrading.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\bin\Debug\net8.0\21EX_ExampleStudentGrading.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\bin\Debug\net8.0\21EX_ExampleStudentGrading.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\bin\Debug\net8.0\21EX_ExampleStudentGrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\bin\Debug\net8.0\21EX_ExampleStudentGrading.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\refint\21EX_ExampleStudentGrading.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\21EX_ExampleStudentGrading.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\21EX_ExampleStudentGrading\obj\Debug\net8.0\ref\21EX_ExampleStudentGrading.dll

@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\bin\Debug\net8.0\23Ex_ExampleNumberOfNumbers.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\bin\Debug\net8.0\23Ex_ExampleNumberOfNumbers.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\bin\Debug\net8.0\23Ex_ExampleNumberOfNumbers.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\bin\Debug\net8.0\23Ex_ExampleNumberOfNumbers.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\bin\Debug\net8.0\23Ex_ExampleNumberOfNumbers.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\refint\23Ex_ExampleNumberOfNumbers.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\23Ex_ExampleNumberOfNumbers.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\23Ex_ExampleNumberOfNumbers\obj\Debug\net8.0\ref\23Ex_ExampleNumberOfNumbers.dll
