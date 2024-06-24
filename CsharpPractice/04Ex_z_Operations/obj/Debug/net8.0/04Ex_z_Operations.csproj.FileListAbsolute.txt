@@ -1,0 +1,14 @@
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\bin\Debug\net8.0\04Ex_z_Operations.exe
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\bin\Debug\net8.0\04Ex_z_Operations.deps.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\bin\Debug\net8.0\04Ex_z_Operations.runtimeconfig.json
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\bin\Debug\net8.0\04Ex_z_Operations.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\bin\Debug\net8.0\04Ex_z_Operations.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.AssemblyInfoInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.AssemblyInfo.cs
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.csproj.CoreCompileInputs.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\refint\04Ex_z_Operations.dll
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.pdb
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\04Ex_z_Operations.genruntimeconfig.cache
+C:\Users\FSdeveloper\Desktop\ReloadProgramming\Csharp\CsharpPractice\04Ex_z_Operations\obj\Debug\net8.0\ref\04Ex_z_Operations.dll
